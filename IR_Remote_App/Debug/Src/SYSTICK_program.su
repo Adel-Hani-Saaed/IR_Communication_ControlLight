@@ -1,0 +1,12 @@
+SYSTICK_program.c:23:6:STK_voidInit	4	static
+SYSTICK_program.c:39:6:STK_voidSetBusyWaitInterval	16	static,ignoring_inline_asm
+SYSTICK_program.c:70:6:STK_voidDisableTimerAndClear	4	static
+SYSTICK_program.c:79:6:STK_voidSetSingleInterval	16	static
+SYSTICK_program.c:97:6:STK_voidSetPeriodicInterval	16	static
+SYSTICK_program.c:112:6:STK_voidStopInterval	4	static
+SYSTICK_program.c:126:5:STK_u32GetElapsedTime	16	static
+SYSTICK_program.c:136:5:STK_u32GetRemainingTime	16	static
+SYSTICK_program.c:146:6:MSTK_voidEnableInterrupt	4	static
+SYSTICK_program.c:152:6:STK_voidDisableInterrupt	4	static
+SYSTICK_program.c:158:6:STK_voidSetCallBackRegisteration	16	static
+SYSTICK_program.c:163:6:SysTick_Handler	8	static

@@ -1,0 +1,4 @@
+IR_program.c:27:6:IR_voidInit	8	static
+IR_program.c:53:6:IR_voidGetFram	16	static
+IR_program.c:92:6:IR_voidTakeStart	16	static
+IR_program.c:132:6:IR_voidSetCallBack	16	static

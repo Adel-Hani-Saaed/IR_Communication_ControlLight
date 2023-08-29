@@ -1,0 +1,7 @@
+MGPIO_Program.c:12:6:MGPIO_voidSetPinMode	16	static
+MGPIO_Program.c:28:6:MGPIO_voidSetPinAlternativeFunction	16	static
+MGPIO_Program.c:82:6:MGPIO_voidSetOutputType	16	static
+MGPIO_Program.c:99:6:MGPIO_voidSetOutputSpeed	16	static
+MGPIO_Program.c:116:6:MGPIO_voidSetPullState	16	static
+MGPIO_Program.c:132:4:MGPIO_u8GetPInValue	24	static
+MGPIO_Program.c:152:6:MGPIO_voidSetPinValue	16	static
